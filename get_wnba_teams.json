@@ -1,0 +1,134 @@
+{
+    "1611661313": {
+      "id": "1611661313",
+      "a": "NYL",
+      "n": "Liberty",
+      "c": "New York",
+      "s": "NY",
+      "tz": "ET",
+      "pc": "#86cebc",
+      "sc": "#061922",
+      "url": "https://liberty.wnba.com"
+    },
+    "1611661317": {
+      "id": "1611661317",
+      "a": "PHO",
+      "n": "Mercury",
+      "c": "Phoenix",
+      "s": "AZ",
+      "tz": "PT",
+      "pc": "#1d1160",
+      "sc": "#e56020",
+      "url": "https://mercury.wnba.com"
+    },
+    "1611661319": {
+      "id": "1611661319",
+      "a": "LVA",
+      "n": "Aces",
+      "c": "Las Vegas",
+      "s": "NV",
+      "tz": "PT",
+      "pc": "#c3002f",
+      "sc": "#061922",
+      "url": "https://aces.wnba.com"
+    },
+    "1611661320": {
+      "id": "1611661320",
+      "a": "LAS",
+      "n": "Sparks",
+      "c": "Los Angeles",
+      "s": "CA",
+      "tz": "PT",
+      "pc": "#552583",
+      "sc": "#fdb927",
+      "url": "https://sparks.wnba.com"
+    },
+    "1611661321": {
+      "id": "1611661321",
+      "a": "DAL",
+      "n": "Wings",
+      "c": "Dallas",
+      "s": "TX",
+      "tz": "CT",
+      "pc": "#0d2240",
+      "sc": "#c4d600",
+      "url": "https://wings.wnba.com"
+    },
+    "1611661322": {
+      "id": "1611661322",
+      "a": "WAS",
+      "n": "Mystics",
+      "c": "Washington",
+      "s": "DC",
+      "tz": "ET",
+      "pc": "#e03a3e",
+      "sc": "#002b5c",
+      "url": "https://mystics.wnba.com"
+    },
+    "1611661323": {
+      "id": "1611661323",
+      "a": "CON",
+      "n": "Sun",
+      "c": "Connecticut",
+      "s": "CT",
+      "tz": "ET",
+      "pc": "#002d62",
+      "sc": "#bf2f38",
+      "url": "https://sun.wnba.com"
+    },
+    "1611661324": {
+      "id": "1611661324",
+      "a": "MIN",
+      "n": "Lynx",
+      "c": "Minnesota",
+      "s": "MN",
+      "tz": "CT",
+      "pc": "#005083",
+      "sc": "#00a94f",
+      "url": "https://lynx.wnba.com"
+    },
+    "1611661325": {
+      "id": "1611661325",
+      "a": "IND",
+      "n": "Fever",
+      "c": "Indiana",
+      "s": "IN",
+      "tz": "ET",
+      "pc": "#002d62",
+      "sc": "#e03a3e",
+      "url": "https://fever.wnba.com"
+    },
+    "1611661328": {
+      "id": "1611661328",
+      "a": "SEA",
+      "n": "Storm",
+      "c": "Seattle",
+      "s": "WA",
+      "tz": "PT",
+      "pc": "#2c5235",
+      "sc": "#fee11a",
+      "url": "https://storm.wnba.com"
+    },
+    "1611661329": {
+      "id": "1611661329",
+      "a": "CHI",
+      "n": "Sky",
+      "c": "Chicago",
+      "s": "IL",
+      "tz": "CT",
+      "pc": "#4d90cd",
+      "sc": "#ffd520",
+      "url": "https://sky.wnba.com"
+    },
+    "1611661330": {
+      "id": "1611661330",
+      "a": "ATL",
+      "n": "Dream",
+      "c": "Atlanta",
+      "s": "GA",
+      "tz": "ET",
+      "pc": "#4891ce",
+      "sc": "#e3173e",
+      "url": "https://dream.wnba.com"
+    }
+  }
